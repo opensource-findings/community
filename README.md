@@ -16,6 +16,7 @@
 - [Находки в опенсорсе: чат](https://t.me/opensource_findings_chat) – чат про опенсорс, python и устройство технологий.
 - [FastNews | Chat](https://t.me/fastnewsdev_chat) - флудилка про AI для обсуждения лучших практик и инструментов.
 - [FastStream](https://t.me/python_faststream) - русскоязычный чат про FastStream и работу с брокерами сообщений в Python.
+- [Taskiq.py](https://t.me/taskiq_py) - русскоязычный чат про Taskiq и работу с брокерами сообщений в Python.
 
 ## Youtube каналы
 
