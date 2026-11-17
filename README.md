@@ -19,6 +19,7 @@
 - [Ship IT! Boardgame](https://t.me/ship_it_boardgame) - чат [настольной игры](https://github.com/sobolevn/ship-it-boardgame) про IT от Никиты Соболева. Лучше всего с 🍻
 - [PythoNN](https://t.me/pytho_nn) - сообщество питонистов в Нижнем Новгороде.
 - [Taskiq.py](https://t.me/taskiq_py) - русскоязычный чат про Taskiq и работу с брокерами сообщений в Python.
+- [dry-python community](https://t.me/drypython) - англоязычный чат по экосистеме [dry-python](https://github.com/dry-python) (набору библиотек с элементами ФП для организации бизнес-логики).
 
 ## Youtube каналы
 
